@@ -5,7 +5,7 @@
 
 主要研究方向：沉浸式通信，多模态传输，资源调度等。
 
-主持国家自然科学基金青年基金、江苏省自然科学基金青年基金、江苏省高校自然科学研究面上项目，南京邮电大学引进人才科研启动基金项目（高水平师资），与华中科技大学联合申请并获批国家自然科学基金专项项目。在IEEE TWC、IEEE TCOM 、 IEEE TVT、 IEEE IoTJ、 IEEE TII、 IEEE TNSE 、《通信学报》等国内外权威期刊和会议上发表论文 18 篇，其中第一作者 8 篇。 以第一作者发表在IEEE Transactions on Vehicular Technology 的论文为ESI高被引论文和TVT热点论文。
+主持国家自然科学基金青年基金、江苏省自然科学基金青年基金、江苏省高校自然科学研究面上项目，南京邮电大学引进人才科研启动基金项目（高水平师资），与华中科技大学联合申请并获批国家自然科学基金专项项目。在IEEE TWC、IEEE TCOM 、 IEEE TVT、 IEEE IoTJ、 IEEE TII、 IEEE TNSE 、《通信学报》等国内外权威期刊和会议上发表论文 22 篇，其中第一作者 8 篇。 以第一作者发表在IEEE Transactions on Vehicular Technology 的论文为ESI高被引论文和TVT热点论文。
 
 
 一、	教育背景
