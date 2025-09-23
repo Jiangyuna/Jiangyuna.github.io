@@ -1,10 +1,4 @@
----
-permalink: /
-title: "个人简介"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+个人简介
 ---
 
 蒋宇娜，南京邮电大学校聘副教授。2023年6月于华中科技大学获得工学博士学位，导师葛晓虎教授。在攻读博士学位期间获得国家留学基金委资助于2021年8月至2022年8月至新加坡南洋理工大学Dusit Niyato（IEEE Fellow）教授课题组联合培养。
