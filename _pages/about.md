@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人主页"
 author_profile: true
 redirect_from: 
   - /about/
@@ -31,9 +31,13 @@ redirect_from:
 三、	科研项目
 ------
 [1]	国家自然科学基金青年基金，主持，在研；</p>
+
 [2]	江苏省自然科学基金青年基金，主持，在研；</p>
+
 [3]	江苏省高校自然科学研究面上项目，主持，在研；</p>
+
 [4]	南京邮电大学引进人才科研启动基金项目（高水平师资），主持，在研；</p>
+
 [5]	国家自然科学基金专项项目，参与，在研。
 
 
