@@ -55,7 +55,7 @@ redirect_from:
 
 [2]	Y. Jiang (蒋宇娜), J. Kang , X. Ge，D. Niyato, Z. Xiong, “QoE Analysis and Resource Allocation for Wireless Metaverse Services,” IEEE Transactions on Communications, vol. 71, no. 8, pp. 4735-4750, Aug. 2023. 
 
-[3]	Y. Jiang (蒋宇娜), J. Kang ,D. Niyato, X. Ge，Z. Xiong, C. Miao and X. Shen. "Reliable Distributed Computing for Metaverse: A Hierarchical Game-Theoretic Approach," IEEE Transactions on Vehicular Technology, vol. 72, no. 1, pp. 1084-1100, Jan. 2023. 
+[3]	Y. Jiang (蒋宇娜), J. Kang ,D. Niyato, X. Ge，Z. Xiong, C. Miao and X. Shen. "Reliable Distributed Computing for Metaverse: A Hierarchical Game-Theoretic Approach," IEEE Transactions on Vehicular Technology, vol. 72, no. 1, pp. 1084-1100, Jan. 2023. (ESI高被引)
 
 [4]	Y. Jiang (蒋宇娜), Y. Zhong and X. Ge, "IIoT Data Sharing Based on Blockchain: A Multi-Leader Multi-Follower Stackelberg Game Approach," IEEE Internet of Things Journal, vol. 9, no. 6, pp. 4396-4410, March, 2022. 
 
