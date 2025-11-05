@@ -14,8 +14,9 @@ My research interests include immersive communication, edge computing and wirele
 
 
 
-#Publications:
-##Journal papers:##
+Publications:
+------
+**Journal papers:**
 
 [1] **Yuna Jiang**, J. Ye, L. Zhou, X. Ge, J. Kang and D. Niyato, "Multi-Modal Stream Integrity Transmission Strategy for Multi-User Wireless Metaverse," IEEE Transactions on Communications, vol. 73, no. 9, pp. 7122-7135, Sept. 2025. 
 
@@ -43,7 +44,7 @@ My research interests include immersive communication, edge computing and wirele
 
 
 
-**Conference papers:
+**Conference papers:**
 
 [1]	**Yuna Jiang**, J. Kang , D. Niyato，X. Ge, Z. Xiong, M. Xu, R. Deng, "Joining Edge-Enabled Metaverse Services with Network Externality: A Stackelberg Game Approach,"  2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)，Kyoto, Japan, 2023, pp. 571-577.
 
@@ -60,7 +61,7 @@ My research interests include immersive communication, edge computing and wirele
 
 Services:
 ------
-_Technical Program Committee:_
+**Technical Program Committee:**
 
 IEEE Globecom 2023
 
