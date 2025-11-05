@@ -63,13 +63,13 @@ Services:
 ------
 **Technical Program Committee:**
 
-IEEE Globecom 2023
+IEEE GLOBECOM 2023
 
 IEEE WCNC 2023
 
-IEEE GLOBECOM 2021 Workshops
-
 IEEE WCNC 2022
+
+IEEE GLOBECOM 2021 Workshops
 
 
 Journal Reviewer:
