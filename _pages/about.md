@@ -51,6 +51,8 @@ redirect_from:
 
 [2]	教改论文：蒋宇娜,陈昌红,解培中.元宇宙赋能信号与系统教学模式探析与思考[J].计算机教育,2025,(09):38-42.DOI:10.16512/j.cnki.jsjjy.2025.09.011.
 
+[3] 2025年“智檬杯”南京邮电大学新教师教学竞赛 二等奖.
+
 五、期刊论文
 ------
 [1]	Y. Jiang (蒋宇娜), J. Ye, L. Zhou, X. Ge, J. Kang and D. Niyato, "Multi-Modal Stream Integrity Transmission Strategy for Multi-User Wireless Metaverse," IEEE Transactions on Communications, Early Access, 2025, doi: 10.1109/TCOMM.2025.3543195. 
